@@ -5,7 +5,7 @@
 // Author : Mathew T G
 // Contact : mathewtg.mec@gmail.com
 //------------------
-// Date : 17/10/20118
+// Date : 17/10/2018
 //------------------
 // Notes :- Behavioural Model
 module simpledecoder_beh (in,out,sel);
