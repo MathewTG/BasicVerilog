@@ -1,7 +1,7 @@
 // Negative edge T FF using UDP 
 //----------------------------------
 // FileName : udp_tff.v
-// Type : module
+// Type : primitive 
 // Author : Mathew T G
 // Contact : mathewtg.mec@gmail.com
 //------------------

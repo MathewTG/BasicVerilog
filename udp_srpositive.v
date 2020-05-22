@@ -1,7 +1,7 @@
 // Positive edge triggered SR FF using UDP 
 //----------------------------------
 // FileName : udp_srpositive.v
-// Type : module
+// Type : primitive 
 // Author : Mathew T G
 // Contact : mathewtg.mec@gmail.com
 //------------------

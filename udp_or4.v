@@ -1,7 +1,7 @@
 // 4 input OR using UDP 
 //----------------------------------
 // FileName : udp_or4.v
-// Type : module
+// Type : primitive 
 // Author : Mathew T G
 // Contact : mathewtg.mec@gmail.com
 //------------------

@@ -1,7 +1,7 @@
 // User Defined Primitives - Full Adder Sum Generation
 //----------------------------------
 // FileName : udp_fasum.v
-// Type : module
+// Type : primitive 
 // Author : Mathew T G
 // Contact : mathewtg.mec@gmail.com
 //------------------

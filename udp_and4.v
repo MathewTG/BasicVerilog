@@ -1,7 +1,7 @@
 // 4 input AND using UDP
 //----------------------------------
 // FileName : udp_and4.v
-// Type : module
+// Type : primitive 
 // Author : Mathew T G
 // Contact : mathewtg.mec@gmail.com
 //------------------

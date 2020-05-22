@@ -1,7 +1,7 @@
 // Negative edge triggered J K FF using UDP
 //----------------------------------
 // FileName : udp_jknegative.v
-// Type : module
+// Type : primitive  
 // Author : Mathew T G
 // Contact : mathewtg.mec@gmail.com
 //------------------

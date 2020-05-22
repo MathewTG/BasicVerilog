@@ -1,7 +1,7 @@
 // D latch using UDP
 //----------------------------------
 // FileName : udp_dlatch.v
-// Type : module
+// Type : primitive 
 // Author : Mathew T G
 // Contact : mathewtg.mec@gmail.com
 //------------------

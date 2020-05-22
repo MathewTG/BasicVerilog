@@ -1,7 +1,7 @@
 // User Defined Primitive - Full Adder Carry
 //----------------------------------
 // FileName : udp_facarry.v
-// Type : module
+// Type : primitive 
 // Author : Mathew T G
 // Contact : mathewtg.mec@gmail.com
 //------------------

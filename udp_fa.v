@@ -1,7 +1,7 @@
 // Full Adder using the User Defined Primitives
 //----------------------------------
 // FileName : udp_fa.v
-// Type : module
+// Type : primitive
 // Author : Mathew T G
 // Contact : mathewtg.mec@gmail.com
 //------------------

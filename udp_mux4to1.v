@@ -1,7 +1,7 @@
 // 4 to 1 MUX using UDP
 //----------------------------------
 // FileName : udpmux4to1.v
-// Type : module
+// Type : primitive 
 // Author : Mathew T G
 // Contact : mathewtg.mec@gmail.com
 //------------------
