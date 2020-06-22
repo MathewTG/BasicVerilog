@@ -1,6 +1,6 @@
 // TB - Sequence Detector
 //----------------------------------
-// FileName : sequenceDet.v
+// FileName : sequenceDet_tb.v
 // Type : module
 // Author : Mathew T G
 // Contact : mathewtg.mec@gmail.com
